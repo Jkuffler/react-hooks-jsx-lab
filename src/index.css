@@ -56,7 +56,11 @@ nav a:active {
 }
 
 #home {
-  background-color: cornsilk;
+  background-color: rgba(184, 135, 11, 0.53);
+}
+
+#about {
+  background-color: rgb(255, 223, 174);
 }
 
 #about img {
