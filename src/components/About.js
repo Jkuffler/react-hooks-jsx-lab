@@ -3,9 +3,8 @@ import { image } from "../data/data";
 
 function About() {
   return <div id="about">
-    About
       <h2>About Me</h2>
-      <p>Too weird to live. Too rare to die.</p>
+      <p>Technologist | Energetic | Blogger | Goofball</p>
       <img src={image} alt="I made this"></img>
     </div>;
 }
